@@ -1,0 +1,11 @@
+Structure du dossier pour le volume Windows
+Le num‚ro de s‚rie du volume est 90E2-D0A0
+C:.
+    historique_rendements.csv
+    meteo_detaillee .csv
+    monitoring_cultures.csv
+    sols.csv
+    Structure.txt
+    
+Aucun sous-dossier existant 
+
